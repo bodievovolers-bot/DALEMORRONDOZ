@@ -1,6 +1,6 @@
 /* Call-to-Cash Academy: offline cache.
    Change VERSION when you publish a new index.html so installed copies update. */
-const VERSION = "c2c-academy-v1";
+const VERSION = "c2c-academy-v2";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
 self.addEventListener("install", function (e) {
